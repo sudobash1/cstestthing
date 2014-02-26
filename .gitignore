@@ -19,3 +19,4 @@
 
 prog
 *~
+.*.swp #vim swap files
